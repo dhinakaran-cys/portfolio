@@ -3,7 +3,7 @@ import { Shield, Code, Terminal } from 'lucide-react';
 
 const Skills = () => {
   const cybersecurity = ['Ethical Hacking & Testing Skills', 'Security Analysis Skills', 'Security Frameworks', 'Phishing Detection & Awareness', 'Threat Detection & Incident Response'];
-  const languages = ['Python'];
+  const languages = ['Python','C','C++','Java'];
   const frameworks = ['Linux', 'Networking Fundamentals'];
 
   return (
