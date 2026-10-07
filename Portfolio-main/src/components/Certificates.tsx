@@ -82,7 +82,15 @@ const categories: Category[] = [
       location: 'Chennai',
       date: 'August 1, 2026',
       image: '/certificates/cit-0xcon-summit-2026.png'
-   }
+   },
+      // Skills category
+  {
+      title: 'Ai-Gnite',
+      issuer: "TECFEST'2K26, National Level Technical Symposium — Tagore Engineering College",
+      location: 'Rathinamangalam, Chennai',
+      date: 'September 25, 2026',
+      image: '/certificates/tagore-aignite-tecfest2k26.png'
+  }
     ]
   }
 ];
